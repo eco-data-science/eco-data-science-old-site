@@ -1,6 +1,15 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Jamie Afflerbach
+  affiliation: National Center for Ecological Analysis and Synthesis
+  github: jafflerbach
   interests:
-    - Programming
-    - Open Science
+    - Marine science
+    - Data science
+
+- name: Julia Stewart-Lowndes
+  affiliation: National Center for Ecological Analysis and Synthesis
+  github: jules32
+  interests:
+    - Marine science
+    - Data science
+
+
