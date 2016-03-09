@@ -20,7 +20,7 @@ events: Events
 eventsSubheading: Our upcoming and recent events
 eventPlaceholder: Nothing yet! Propose an event here.
 suggestEvent: Suggest an Event
-leadership: How to lead a Study Group session
+leadership: How to lead a session
 pastEvents: See Our Past Events
 
 notification: Want to be notified of our upcoming events?
@@ -37,7 +37,7 @@ contactSubheading: 'We use GitHub to get coding help, talk about events and shar
 contact: Talk To Us
 
 teamHeadline: Who We Are
-teamSubheading: "We're scientists, students and researchers who want to work with you!"
+teamSubheading: "We're environmental scientists, students and researchers who want to work and learn together!"
 interests: Interests
 
 codeOfConduct: Study Group Code of Conduct
