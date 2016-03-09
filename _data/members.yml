@@ -15,6 +15,7 @@
 - name: Ben Best
   affiliation: University of California, Santa Barbara
   github: bbest
+  interests:
     - Marine science
     - Data science
     
@@ -46,12 +47,27 @@
     - x
     - y
 
+- name: Gavin McDonald
+  affiliation: Sustainable Fisheries Group, UCSB
+  github: gmcdonald-sfg
+  interests:
+    - x
+    - y
+
 - name: Dan Ovando
   affiliation: Sustainable Fisheries Group, UCSB
   github: DanOvando
   interests:
     - x
     - y
+    
+- name: Tracey Mangin
+  affiliation:
+  github: traceybit
+  interests:
+    - x
+    - y
+
   
 
 
