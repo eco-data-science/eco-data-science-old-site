@@ -1,7 +1,7 @@
 ---
 title: Data Wrangling with dplyr and tidyr
 text: Tyler Clavelle and Dan Ovando
-location: Bren School of Environmental Science UCSB
+location: Bren School of Environmental Science - Room 1520
 link: https://github.com/tclavelle/dplyr-tidyr-tutorial
 date: 2016-03-10
 startTime: '13:00'
