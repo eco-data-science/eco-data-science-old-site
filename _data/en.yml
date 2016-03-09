@@ -17,7 +17,8 @@ activities:
     icon: fa-group
 
 events: Events
-eventsSubheading: Our upcoming and recent events
+eventsSubheading: Upcoming events
+eventsSubheading2: Recent events
 eventPlaceholder: Nothing yet! Propose an event here.
 suggestEvent: Suggest an Event
 leadership: How to lead a session
