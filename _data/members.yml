@@ -15,23 +15,15 @@
 - name: Ben Best
   affiliation: University of California, Santa Barbara
   github: bbest
-  interests:
-    - Marine science
-    - Data science
     
 - name: Casey O'Hara
   affiliation: National Center for Ecological Analysis and Synthesis, UCSB
   github: oharac
   interests:
-    - Marine science
-    - Data science
     
 - name: Melanie Frazier
   affiliation: National Center for Ecological Analysis and Synthesis, UCSB
   github: melsteroni
-  interests:
-   - Elsa
-   - Crafting
 
 - name: Remi Daigle
   affiliation: Canada
@@ -43,16 +35,11 @@
 - name: Tyler Clavelle
   affiliation: Sustainable Fisheries Group, UCSB
   github: tclavelle
-  interests:
-    - x
-    - y
-
+ 
 - name: Dan Ovando
   affiliation: Sustainable Fisheries Group, UCSB
   github: DanOvando
-  interests:
-    - x
-    - y
+
 
 
   
