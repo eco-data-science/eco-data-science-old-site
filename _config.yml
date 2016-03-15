@@ -18,7 +18,7 @@ language: en
 # Optional Configuration
 # None of these things need to be changed - but feel free!
 
-titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
+titleBackground: "https://photos.google.com/share/AF1QipMBSTFVLUn_vWwERVV-Tt83z4TobR2dY3aypsPE3DOEyU0h_vv3GF-WItZ0rgaNnA/photo/AF1QipOyFL25WiGSD_VCmCXSAu_Hmn85dTyGu68M_1cg?key=YVZtbkdCZlJoZkg5SEpJcXpxck53em1fN3BSRkNn"
 headlineSmall: "An environmental data science study group at UCSB"
 headlineMain: "Let's Work Together"
 
