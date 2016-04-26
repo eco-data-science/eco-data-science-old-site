@@ -1,5 +1,5 @@
 ---
-title: Introduction to the Command Line
+title: Introduction to Spatial Analysis in R (rasters)
 text: Jamie Afflerbach
 location: UCSB Library - Collaboratory
 link: https://github.com/eco-data-science/spatial-analysis-R
