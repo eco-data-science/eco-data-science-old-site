@@ -3,7 +3,7 @@ title: POSTPONED - Setting up a Server/Virtual Machine w/ Google Compute Engine 
 text: Grant McDermott
 location: TBD
 link: https://github.com/grantmcdermott/rstudio-compute-engine
-date: TBD
+date: 
 startTime: 'TBD'
 endTime: 'TBD'
 
