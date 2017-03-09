@@ -2,15 +2,13 @@
   affiliation: National Center for Ecological Analysis and Synthesis, UCSB
   github: jafflerbach
   interests:
-    - Marine Spatial Planning & Analysis
-    - Data Science Groupie
+    - Marine Data Science
 
 - name: Julie Stewart Lowndes
   affiliation: National Center for Ecological Analysis and Synthesis, UCSB
   github: jules32
   interests:
-    - Marine Science
-    - Data Science
+    - Marine Data Science
 
 - name: Ben Best
   affiliation: University of California, Santa Barbara
@@ -45,7 +43,10 @@
 - name: Grant McDermott
   affiliation: Sustainable Fisheries Group, UCSB
   github: grantmcdermott
-  
+  interests:
+    - Economics
+    - Econometrics
+    - Data Science
 
 
   
