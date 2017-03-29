@@ -1,10 +1,10 @@
 ---
-title: EcoDataScience Happy Hour!
-text: 
+title: EcoDataScience Happy Hour
+text: Come sociazlie with and learn about the EcoDataScience community!
 location: Bren School - Dean's Conference Room and Deckers Deck
 link: 
 date: 2017-04-27
-startTime: '16:00'
-endTime: '18:00'
+startTime: '4:00'
+endTime: '6:00'
 
 ---
