@@ -1,5 +1,5 @@
 ---
-title: Introduction to Spatial Analysis in R (rasters)
+title: Introduction to Spatial Analysis in R
 text: Jamie Afflerbach
 location: UCSB Collaboratory
 link: https://github.com/jafflerbach/spatial-analysis-R
