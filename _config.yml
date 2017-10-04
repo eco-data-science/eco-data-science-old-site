@@ -35,7 +35,7 @@ calendar_ical_url: "https://www.google.com/calendar/ical/USER@gmail.com/public/b
 # Setup survey
 # Set survey_url to No (no quotes) if disabled
 #I changed this to the github issues url instead of a survey.
-survey_url: "https://github.com/eco-data-science/eco-data-science.github.io/issues"
+survey_url: "https://groups.google.com/forum/#!forum/eco-data-science"
 
 #========================================
 # No touching anything below this line :)
