@@ -28,8 +28,8 @@ headlineMain: "Let's Work Together"
 # 2. change 'USER' in the example urls below to the username of the google account you made for your calendar
 # 3. set calendar_on: True.
 
-calendar_on: False
-calendar_embed_url: "https://www.google.com/calendar/embed?src=USER@gmail.com"
+calendar_on: True
+calendar_embed_url: "https://calendar.google.com/calendar/b/1?cid=bmNlYXMudWNzYi5lZHVfdnUzbHQzN3Q0YzN1ZzFtZ2k0cDE4NjRyOHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ"
 calendar_ical_url: "https://www.google.com/calendar/ical/USER@gmail.com/public/basic.ics"
 
 # Setup survey
