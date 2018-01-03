@@ -16,13 +16,13 @@ activities:
     description: 'Meet new people in your field, organization or community - and find out what we can do when we work together.'
     icon: fa-group
 
-events: Events
-eventsSubheading: Upcoming events
-eventsSubheading2: Recent events
+events: Sessions
+eventsSubheading: Here are our upcoming sessions. Unless otherwise noted, all sessions will be held in the UCSB Collaboratory.
+eventsSubheading2: Recent sessions
 eventPlaceholder: Nothing yet! Propose an event here.
 suggestEvent: Suggest an Event
 leadership: How to lead a session
-pastEvents: See Our Past Events
+pastEvents: See our past events
 
 notification: Want to be notified of our upcoming events?
 watching: 'Head over to <a href="%GITHUB_REPO_URL%">GitHub</a> and watch our repository, like this:'
