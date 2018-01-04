@@ -16,13 +16,13 @@ activities:
     description: 'Meet new people in your field, organization or community - and find out what we can do when we work together.'
     icon: fa-group
 
-events: Sessions
-eventsSubheading: Here are our upcoming sessions. Unless otherwise noted, all sessions will be held in the UCSB Collaboratory, located on the second floor of the Library, Mountain Side, rooms 2322 and 2324.
-eventsSubheading2: Previous sessions
+events: Upcoming Sessions
+eventsSubheading: Unless otherwise noted, all sessions will be held in the UCSB Collaboratory, located on the second floor of the Library, Mountain Side, rooms 2322 and 2324.
+eventsSubheading2: Lunch is graciously provided by the Collaboratory. Make sure to come early to grab some grub!
 eventPlaceholder: Nothing yet! Propose an event here.
 suggestEvent: Suggest an Event
 leadership: How to lead a session
-pastEvents: See our past events
+pastEvents: Previous sessions
 
 notification: Want to be notified of our upcoming events?
 watching: 'Head over to <a href="%GITHUB_REPO_URL%">GitHub</a> and watch our repository, like this:'
