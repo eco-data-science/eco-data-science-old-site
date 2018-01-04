@@ -17,8 +17,7 @@ activities:
     icon: fa-group
 
 events: Sessions
-eventsSubheading: Here are our upcoming sessions. Unless otherwise noted, all sessions will be held in the [UCSB Collaboratory](https://www.library.ucsb.edu/interdisciplinary-research-collaboratory),
-located on the second floor of the Library, Mountain Side, rooms 2322 and 2324.
+eventsSubheading: Here are our upcoming sessions. Unless otherwise noted, all sessions will be held in the [UCSB Collaboratory](https://www.library.ucsb.edu/interdisciplinary-research-collaboratory), located on the second floor of the Library, Mountain Side, rooms 2322 and 2324.
 eventsSubheading2: Previous sessions
 eventPlaceholder: Nothing yet! Propose an event here.
 suggestEvent: Suggest an Event
