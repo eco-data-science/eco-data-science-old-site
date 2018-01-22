@@ -2,9 +2,9 @@
 title: Tidyverse
 text: RESERVE YOUR SPOT
 textlink: https://goo.gl/forms/XYOPJyEkil2gT4Zh2
-location: UCSB Library Collaboratory
+location: National Center for Ecological Analysis & Synthesis (NCEAS)
 link: 
-date: 2018-02-07
-startTime: '11:30'
-endTime: '1:00'
+date: 2018-02-15
+startTime: '8:30'
+endTime: '10:00'
 ---
