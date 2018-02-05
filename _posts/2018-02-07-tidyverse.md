@@ -1,5 +1,5 @@
 ---
-title: Tidyverse
+title: Data Wrangling with the Tidyverse
 text: RESERVE YOUR SPOT
 textlink: https://goo.gl/forms/pLJQhuK9v81PqpBF3
 location: National Center for Ecological Analysis & Synthesis (NCEAS)
