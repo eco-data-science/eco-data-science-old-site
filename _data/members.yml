@@ -84,6 +84,20 @@
   interests:
     - Marine Data Science
     - Marine Conservation
+    
+- name: Ryan Avery
+  affiliation: Geography Department, UCSB
+  github: rbavery
+  interests:
+    - vegetation remote sensing
+    - machine learning
+    - ecohydrological modeling of water limited agriculture & ecosystems
+    
+- name: Noah Spahn
+  affiliation: Earth Research Institute
+  github: noah-de
+  interests:
+    - Software Engineering applied to advance Earth Sciences
 
   
 
