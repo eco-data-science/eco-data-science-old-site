@@ -25,8 +25,8 @@ leadership: How to lead a session
 pastEvents: Previous sessions
 
 notification: Want to be notified of our upcoming events?
-watching: 'Head over to <a href="%GITHUB_REPO_URL%">GitHub</a> and watch our repository, like this:'
-watchingCaption: 'Look in the top right-hand corner of <a href="%GITHUB_REPO_URL%">our repo</a>, and click "Watching." <br>You can undo this at any time in the same place.'
+watching: 'Join our <a href="https://groups.google.com/forum/#!forum/eco-data-science">Google Group</a>'
+watchingCaption: ''
 
 calendar: Subscribe to our events calendar!
 calendarSubheading: 'We also invite you to follow <a href="%CALENDAR_EMBED_URL%" target="_blank">our calendar</a>, where events will be posted.'
