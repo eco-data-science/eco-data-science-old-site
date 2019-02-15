@@ -1,6 +1,6 @@
 ---
-title: GitHub for collaboration - Juan Carlos Villaseñor and Tracey Mangin
-text: 
+title: GitHub for collaboration 
+text: Juan Carlos Villaseñor and Tracey Mangin
 textlink: 
 location: UCSB Library Collaboratory
 link: 
