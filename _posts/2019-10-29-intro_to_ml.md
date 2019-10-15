@@ -1,5 +1,5 @@
 ---
-title: Intro to Machine Learning - Dan Ovando
+title: Intro to Bayesian Model Fitting with R and Stan - Dan Ovando
 text: 
 textlink: 
 location: UCSB Library Collaboratory
