@@ -1,7 +1,6 @@
 ---
-title: Workflows and collaboration with Alexa Fredston-Hermann
-text: 
-textlink: 
+title: Workflows and collaboration
+text: Alexa Fredston-Hermann
 location: Zoom
 link: 
 date: 2020-05-26
