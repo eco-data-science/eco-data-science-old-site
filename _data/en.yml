@@ -17,8 +17,8 @@ activities:
     icon: fa-group
 
 events: Upcoming Sessions
-eventsSubheading: Until in-person instructionis resumed, we'll host sessions via Zoom
-eventPlaceholder: Feb 16 - Intro to Shiny (Kat)
+eventsSubheading: Until in-person instruction is resumed, we'll host sessions via Zoom
+eventPlaceholder: Nothing yet! Propose an event here
 suggestEvent: Suggest an Event
 leadership: How to lead a session
 pastEvents: Previous sessions
