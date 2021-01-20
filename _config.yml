@@ -19,7 +19,7 @@ language: en
 # None of these things need to be changed - but feel free!
 
 titleBackground: "https://mrlowndes.files.wordpress.com/2016/01/131009-79451.jpg"
-headlineSmall: "An environmental data science study group at UCSB"
+headlineSmall: "An environmental data science study group at UCSB and beyond"
 headlineMain: "Let's Work Together"
 
 # Setup Google Calendar
@@ -29,12 +29,11 @@ headlineMain: "Let's Work Together"
 # 3. set calendar_on: True.
 
 calendar_on: True
-calendar_embed_url: "https://calendar.google.com/calendar/b/1?cid=bmNlYXMudWNzYi5lZHVfdnUzbHQzN3Q0YzN1ZzFtZ2k0cDE4NjRyOHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ"
-calendar_ical_url: "https://www.google.com/calendar/ical/USER@gmail.com/public/basic.ics"
+calendar_embed_url: "https://calendar.google.com/calendar/embed?src=c_9c063s7bru2bnas7c3aqi0tggc%40group.calendar.google.com&ctz=America%2FLos_Angeles"
+calendar_ical_url: "https://calendar.google.com/calendar/ical/c_9c063s7bru2bnas7c3aqi0tggc%40group.calendar.google.com/public/basic.ics"
 
 # Setup survey
 # Set survey_url to No (no quotes) if disabled
-#I changed this to the github issues url instead of a survey.
 survey_url: "https://groups.google.com/forum/#!forum/eco-data-science"
 
 #========================================
