@@ -18,7 +18,7 @@ activities:
 
 events: Upcoming Sessions
 eventsSubheading: Until in-person instructionis resumed, we'll host sessions via Zoom
-eventPlaceholder: "2020-01-16-intro-to-shiny.md"
+# eventPlaceholder: 
 suggestEvent: Suggest an Event
 leadership: How to lead a session
 pastEvents: Previous sessions
