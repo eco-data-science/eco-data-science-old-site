@@ -1,6 +1,6 @@
 ---
-title: Gridded data (rasters) in R, with Casey O'Hara and Anna Abelman
-text: Materials
+title: Gridded data (rasters) in R
+text: Casey O'Hara and Anna Abelman
 textlink: https://github.com/eco-data-science/eds_rasters
 location: Zoom
 link: 
