@@ -19,8 +19,6 @@ activities:
 events: Upcoming Sessions
 eventsSubheading: Until in-person instructionis resumed, we'll host sessions via Zoom
 eventPlaceholder: Feb 16 - Intro to Shiny (Kat)
-eventPlaceholder2: March 2 - Manipulation of BIG tabular data with data.table (Tracy and Meas)
-eventPlaceholder3: March 16 - Interactive maps with Leaflet (Marcela and Mike)
 suggestEvent: Suggest an Event
 leadership: How to lead a session
 pastEvents: Previous sessions
