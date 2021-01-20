@@ -17,8 +17,7 @@ activities:
     icon: fa-group
 
 events: Upcoming Sessions
-eventsSubheading: Unless otherwise noted, all sessions will be held in the UCSB Collaboratory, located on the second floor of the Library, Mountain Side, room 2322.
-eventsSubheading2: Lunch is graciously provided by the Collaboratory. Make sure to come early to grab some grub!
+eventsSubheading: Until in-person instructionis resumed, we'll host sessions via Zoom
 eventPlaceholder: Nothing yet! Propose an event here.
 suggestEvent: Suggest an Event
 leadership: How to lead a session
