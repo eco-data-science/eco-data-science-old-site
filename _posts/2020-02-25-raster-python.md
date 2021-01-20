@@ -1,7 +1,6 @@
 ---
-title: Working with Raster Data in Python - Ryan Avery
-text: 
-textlink: 
+title: Working with Raster Data in Python
+text: Ryan Avery
 location: UCSB Library Collaboratory
 link: 
 date: 2020-02-25

@@ -1,7 +1,6 @@
 ---
-title: High performance computing - Mary Donovan and Sharon Solis
-text: 
-textlink: 
+title: High performance computing
+text: Mary Donovan and Sharon Solis
 location: UCSB Library Collaboratory
 link: https://fishymary.github.io/R_on_HPC/#/
 date: 2019-04-09

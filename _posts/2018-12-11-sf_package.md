@@ -1,6 +1,6 @@
 ---
-title: Spatial Analysis using the sf package - Jamie & Jeanette
-text: 
+title: Spatial Analysis using the sf package
+text: Jamie & Jeanette
 textlink: 
 location: UCSB Library Collaboratory
 link: https://github.com/eco-data-science/spatial-analysis-R

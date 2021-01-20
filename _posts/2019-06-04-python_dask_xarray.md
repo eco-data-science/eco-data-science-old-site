@@ -1,7 +1,6 @@
 ---
-title: Python dask and xarray - Deanna Nash
-text: 
-textlink: 
+title: Python dask and xarray
+text: Deanna Nash
 location: UCSB Library Collaboratory
 link: https://github.com/dlnash/tutorials
 date: 2019-06-11
