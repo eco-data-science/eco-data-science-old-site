@@ -1,3 +1,13 @@
+#HOW TO:
+# To add your name to the list of presenters, simply imitate the format of an entry. Here's an example:
+# - name: Octo Cat
+#   affiliation: Interweb
+#   github: octo_cat
+#   interests:
+#     - Coding
+#     - World domination
+#     - Purring
+#     
 - name: Jamie Montgomery
   affiliation: National Center for Ecological Analysis & Synthesis, UCSB
   github: jamiecmontgomery
