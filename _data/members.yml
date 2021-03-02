@@ -115,13 +115,16 @@
   interests:
     - reproducible research
     - open data
-
-- name: Kat Millage
-  affiliation: Environmental Market Solutions Lab (emLab), UCSB
-  github: kmillage
+    
+- name: Mike Johnson
+  affiliation: Geography Department, UCSB / NOAA-Affiliate
+  github: mikejohnson51
   interests:
-    - marine data science
-    - marine ecology
+    - Hydrologic Modelling Hydrofabrics
+    - Environmental Data
+    - Raster/Vector data models
+
+
   
 - name: Tracey Mangin
   affiliation: Environmental Market Solutions Lab (emLab), UCSB
