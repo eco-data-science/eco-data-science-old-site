@@ -124,7 +124,12 @@
     - Environmental Data
     - Raster/Vector data models
 
-
+- name: Kat Millage
+  affiliation: Environmental Market Solutions Lab (emLab), UCSB
+  github: kmillage
+  interests:
+    - marine data science
+    - marine ecology
   
 - name: Tracey Mangin
   affiliation: Environmental Market Solutions Lab (emLab), UCSB
