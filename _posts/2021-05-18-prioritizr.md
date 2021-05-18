@@ -1,8 +1,8 @@
 ---
 title: prioritizr
-text: Rachel Rhodes et al
+text: Anna Abelman, Vanessa Rathbone & Rachel Rhodes
 location: Zoom
-link:
+link: https://github.com/eco-data-science/prioritizr_tutorial
 date: 2021-05-18
 startTime: '11:30'
 endTime: '1:00'
